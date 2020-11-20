@@ -1,6 +1,6 @@
 # HTML and CSS Module 2
 
-## Lesson Task 3
+## Task 3
 
 In this lesson task you format the navigation.
 
